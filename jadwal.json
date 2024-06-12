@@ -1,0 +1,28 @@
+{
+    "jadwal": [
+        {
+            "tim": "Tim A",
+            "hari": "Senin"
+        },
+        {
+            "tim": "Tim B",
+            "hari": "Rabu"
+        },
+        {
+            "tim": "Tim C",
+            "hari": "Jumat"
+        },
+        {
+            "tim": "Tim D",
+            "hari": "Senin"
+        },
+        {
+            "tim": "Tim E",
+            "hari": "Rabu"
+        },
+        {
+            "tim": "Tim F",
+            "hari": "Jumat"
+        }
+    ]
+}
