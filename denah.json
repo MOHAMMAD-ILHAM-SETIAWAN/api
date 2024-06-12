@@ -1,0 +1,17 @@
+[
+  {
+    "rt_rw": "001/001",
+    "nama_gang": "Gang Mawar",
+    "nama_jalan": "Jalan Anggrek"
+  },
+  {
+    "rt_rw": "001/002",
+    "nama_gang": "Gang Melati",
+    "nama_jalan": "Jalan Mawar"
+  },
+  {
+    "rt_rw": "002/001",
+    "nama_gang": "Gang Dahlia",
+    "nama_jalan": "Jalan Kamboja"
+  }
+]
